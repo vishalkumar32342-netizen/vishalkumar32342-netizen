@@ -1,93 +1,113 @@
-# 👋 Hi, I'm Vishal Raj!
+<div align="center">
+
+# 👋 Hi, I'm Vishal Raj
 
 ### 🐍 Python Full Stack Developer | Software Developer
 
-I'm a B.Tech ECE graduate passionate about software development,
-Python, backend development, and building practical real-world applications.
+Building practical applications with **Python, FastAPI, SQL & JavaScript**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-raj-28b743280/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalkumar32342-netizen)
+
+</div>
 
 ---
 
-## 💻 When I Code, I Rely On
+## 👨‍💻 About Me
+
+I'm a **B.Tech graduate in Electronics & Communication Engineering** 
+with a strong interest in software development.
+
+I enjoy building applications using Python and exploring backend 
+development, REST APIs, databases, and AI-powered applications.
+
+- 🔭 Currently working on **Python & FastAPI projects**
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 🤖 Interested in **AI, automation & backend development**
+- 🧩 Solved **100+ problems on LeetCode**
+- 💼 Looking for opportunities as a **Software Developer / Python Developer**
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend & Database
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
-## 🚀 What I'm Currently Working On
+# 🚀 Featured Project
 
-- 🐍 Improving my Python programming skills
-- 🧠 Learning Data Structures & Algorithms
-- ⚡ Building REST APIs using FastAPI
-- 🤖 Exploring AI-powered applications
-- 💻 Preparing for Software Developer opportunities
+## 🍔 OrderBhaiAI
 
----
+**AI-powered food ordering application**
 
-## 📌 Featured Project
+A Python-based project that combines **FastAPI, REST APIs, SQL and 
+chatbot/AI concepts** to work with food-order information.
 
-### 🍔 OrderBhaiAI
+### 🛠️ Built With
 
-An AI-powered food ordering application built using:
+`Python` `FastAPI` `SQL` `REST API` `AI` `Chatbot`
 
-**Python • FastAPI • SQL • REST APIs • AI/Chatbot concepts**
+### ✨ Features
 
-The project focuses on managing food orders through APIs and
-providing an intelligent chatbot-style interaction with order data.
+- 📦 Create and manage food orders
+- 🔍 Search and filter order information
+- 👤 Retrieve customer order details
+- 📊 Work with order status and amounts
+- 🤖 Chatbot-style interaction with order data
+- 🔄 REST API operations
 
----
-
-## 🧠 Skills
-
-| Category | Technologies |
-|---|---|
-| Programming | Python, C, C++ |
-| Backend | Python, FastAPI |
-| Database | SQL, MySQL |
-| Frontend | HTML, CSS, JavaScript |
-| Tools | Git, GitHub, PyCharm |
-| Other | REST APIs, OOP, DSA |
+👉 **Check out the project:**  
+[![OrderBhaiAI](https://img.shields.io/badge/OrderBhaiAI-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/vishalkumar32342-netizen/OrderBhaiAI)
 
 ---
 
-## 🏆 Achievements
+# 📚 Currently Learning
 
-- 🎓 B.Tech in Electronics & Communication Engineering
-- 💻 Python Full Stack Training
-- 🧩 100+ LeetCode Problems Solved
-- 🚀 Built practical Python & FastAPI projects
-
----
-
-## 📊 GitHub Stats
-
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalkumar32342-netizen&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar32342-netizen&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishalkumar32342-netizen&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-raj-28b743280/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-vishalkumar32342--netizen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalkumar32342-netizen)
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something useful with code. 🚀**
+```text
+Python
+  │
+  ├── OOP
+  ├── Exception Handling
+  ├── File Handling
+  └── Advanced Python
+       │
+       ▼
+   FastAPI
+       │
+       ├── REST APIs
+       ├── CRUD
+       └── Database Integration
+       │
+       ▼
+      DSA
+       │
+       ├── Arrays
+       ├── Strings
+       ├── Searching
+       ├── Sorting
+       └── Problem Solving
