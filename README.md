@@ -1,15 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Vishal Raj
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vishal%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer&descSize=20&descAlignY=55" width="100%"/>
 
-### 🐍 Python Full Stack Developer | Software Developer
-
-Building practical applications with **Python, FastAPI, SQL & JavaScript**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Building+REST+APIs+with+FastAPI;Exploring+AI+%26+Automation;Learning+Data+Structures+%26+Algorithms;Turning+Ideas+Into+Code!" alt="Typing SVG" />
+</a>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-raj-28b743280/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalkumar32342-netizen)
+<a href="https://github.com/vishalkumar32342-netizen">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/vishal-raj-28b743280/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/vishalkumar32342-netizen?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Projects-2EA44F?style=for-the-badge&logo=github" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=vishalkumar32342-netizen&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
 </div>
 
@@ -17,97 +26,180 @@ Building practical applications with **Python, FastAPI, SQL & JavaScript**
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech graduate in Electronics & Communication Engineering** 
-with a strong interest in software development.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Vishal Raj"
+        self.role = "Python Full Stack Developer"
+        self.education = "B.Tech in ECE"
+        self.languages = ["Python", "C", "C++", "JavaScript"]
+        self.backend = ["FastAPI", "REST APIs"]
+        self.database = ["SQL", "MySQL"]
+        self.tools = ["Git", "GitHub", "PyCharm"]
+        self.current_focus = [
+            "Backend Development",
+            "Data Structures & Algorithms",
+            "AI & Automation"
+        ]
 
-I enjoy building applications using Python and exploring backend 
-development, REST APIs, databases, and AI-powered applications.
+    def say_hello(self):
+        return "Thanks for visiting my profile! Let's build something great."
 
-- 🔭 Currently working on **Python & FastAPI projects**
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 🤖 Interested in **AI, automation & backend development**
-- 🧩 Solved **100+ problems on LeetCode**
-- 💼 Looking for opportunities as a **Software Developer / Python Developer**
+me = Developer()
+print(me.say_hello())
+```
 
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Backend & Database
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+- 🔭 Building practical applications with Python and FastAPI.
+- 🌱 Improving my problem-solving and backend development skills.
+- 🤖 Exploring AI-powered applications and automation.
+- 🧩 Practicing Data Structures & Algorithms.
+- 🎯 Working toward a career in software development.
 
 ---
 
-# 🚀 Featured Project
+## ⚡ My Tech Universe
 
-## 🍔 OrderBhaiAI
+<div align="center">
 
-**AI-powered food ordering application**
+### 💻 Programming Languages
 
-A Python-based project that combines **FastAPI, REST APIs, SQL and 
-chatbot/AI concepts** to work with food-order information.
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js&theme=dark" />
 
-### 🛠️ Built With
+### 🌐 Frontend Development
 
-`Python` `FastAPI` `SQL` `REST API` `AI` `Chatbot`
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
-### ✨ Features
+### ⚙️ Backend & Database
 
-- 📦 Create and manage food orders
-- 🔍 Search and filter order information
-- 👤 Retrieve customer order details
-- 📊 Work with order status and amounts
-- 🤖 Chatbot-style interaction with order data
-- 🔄 REST API operations
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite&theme=dark" />
 
-👉 **Check out the project:**  
-[![OrderBhaiAI](https://img.shields.io/badge/OrderBhaiAI-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/vishalkumar32342-netizen/OrderBhaiAI)
+### 🛠️ Tools I Use
+
+<img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode&theme=dark" />
+
+</div>
 
 ---
 
-# 📚 Currently Learning
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/vishalkumar32342-netizen/OrderBhaiAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalkumar32342-netizen&repo=OrderBhaiAI&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🍔 OrderBhaiAI
+
+**An AI-powered food-ordering project**
+
+| Feature | Description |
+|---|---|
+| ⚡ Backend | FastAPI and Python |
+| 🔄 API | REST API operations |
+| 🗄️ Database | Order information and status |
+| 🔍 Search | Retrieve and filter order details |
+| 🤖 AI | Chatbot-style interaction with order data |
+
+**Tech stack:** `Python` `FastAPI` `SQL` `REST APIs`
+
+<a href="https://github.com/vishalkumar32342-netizen/OrderBhaiAI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00C853?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalkumar32342-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar32342-netizen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vishalkumar32342-netizen&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 📈 My Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkumar32342-netizen&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓_Education-B.Tech_ECE-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐍_Focus-Python_Development-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_Backend-FastAPI-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧩_Practice-100%2B_LeetCode-orange?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🎯 Current Learning Roadmap
 
 ```text
-Python
-  │
-  ├── OOP
-  ├── Exception Handling
-  ├── File Handling
-  └── Advanced Python
-       │
-       ▼
-   FastAPI
-       │
-       ├── REST APIs
-       ├── CRUD
-       └── Database Integration
-       │
-       ▼
-      DSA
-       │
-       ├── Arrays
-       ├── Strings
-       ├── Searching
-       ├── Sorting
-       └── Problem Solving
+Python Fundamentals
+        │
+        ▼
+Object-Oriented Programming
+        │
+        ▼
+Data Structures & Algorithms
+        │
+        ▼
+SQL & Database Management
+        │
+        ▼
+FastAPI & REST APIs
+        │
+        ▼
+Backend Projects
+        │
+        ▼
+AI & Automation
+```
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vishal-raj-28b743280/">
+<img src="https://img.shields.io/badge/LinkedIn-Vishal_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/vishalkumar32342-netizen">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### 💬 "Keep learning. Keep building. Keep growing."
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
+
+</div>
